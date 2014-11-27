@@ -1,14 +1,7 @@
 
 
     
-?>
-<title>BBMK Online - Berita</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta content='index, follow' name='robots'/>
-	<meta content='index, follow' name='googlebot'/>
-	<meta content='index, follow' name='msnbot'/>
-	<meta name="description" content="Website Pendaftaran BBMK Online 2014 Universitas Andalas." />
-	<meta name="keywords" content="Pendaftaran, BBMK, 2014, UNAND, Universitas, Andalas,  Website, Online, BBMK 2014," />
+
 	
 	<link href="style.css" rel="stylesheet" type="text/css" />
 <script language="javascript" src="./js/ajax.js">

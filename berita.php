@@ -1,16 +1,5 @@
 
-<?php
-include "./include/db_config.inc.php";
-include "./include/main.inc.php";
-$main = new neoCMS();
-include "./include/addon.inc.php";
 
-
-$tool=new tool();
-$statistik=new statistik();
-$addon=new session_control();
-$addon->cek_login();
-    $statistik->getdata($addon->ukm_id);
     
 ?>
 <title>BBMK Online - Berita</title>
